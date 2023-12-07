@@ -1,0 +1,112 @@
+{
+  "bands":[
+    {
+  "name": "Metallica",
+  "albums": 12,
+  "genre": ["Thrash Metal"]
+
+
+},
+{
+  "name": "Five Finger Death Punch",
+  "albums": 8,
+  "genre": ["Heavy Metal"]
+},
+
+{
+  "name": "Texas Hippie Coalition",
+  "albums": 6,
+  "genre": ["Southern Metal"]
+},
+
+{
+  "name": "Hellyeah",
+  "albums": 6,
+  "genre": ["Groove Metal"]
+
+},
+{
+  "name": "Marilyn Manson",
+  "albums": 11,
+  "genre": ["Industrial Metal"]
+},
+
+{
+  "name": "In This Moment",
+  "albums": 7,
+  "genre": ["Metalcore", "Alternative Metal"]
+},
+
+{
+  "name": "Limp Bizkit",
+  "albums": 6,
+  "genre": ["Nu Metal"]
+},
+
+{
+  "name": "Rob Zombie",
+  "albums": 7,
+  "genre": ["Industrial Metal", "Alternative Metal"]
+},
+
+{
+  "name": "The Pretty Reckless",
+  "albums": 4,
+  "genre": ["Hard Rock"]
+},
+
+{
+  "name": "Motley Crue",
+  "albums": 9,
+  "genre": ["Glam Metal", "Hard Rock"]
+},
+
+{
+  "name": "Halestorm",
+  "albums": 5,
+  "genre": ["Hard Rock", "Alternative Metal"]
+},
+
+{
+  "name": "Red Hot Chili Peppers",
+  "albums": 11,
+  "genre": ["Alternative Rock", "Funk Rock"]
+},
+
+{
+  "name": "Volbeat",
+  "albums": 7,
+  "genre": ["Heavy Metal", "Rockabilly"]
+},
+
+{
+  "name": "Dope",
+  "albums": 6,
+  "genre": ["Industrial Metal", "Nu Metal"]
+},
+
+{
+  "name": "Avatar",
+  "albums": 8,
+  "genre": ["Melodic Death Metal"]
+},
+
+{
+  "name": "Black Stone Cherry",
+  "albums": 7,
+  "genre": ["Southern Rock", "Hard Rock"]
+},
+
+{
+  "name": "The Offspring",
+  "albums": 10,
+  "genre": ["Punk Rock", "Alternative Rock"]
+},
+
+{
+  "name": "Drowning Pool",
+  "albums": 7,
+  "genre": ["Alternative Metal", "Nu Metal"]
+}
+  ]
+}
